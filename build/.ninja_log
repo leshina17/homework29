@@ -1,0 +1,14 @@
+# ninja log v5
+3	434	7314619109684001	CMakeFiles/main.dir/main.cpp.obj	cb7076c8007cbee6
+8	549	7314619110854093	CMakeFiles/main.dir/fraction.cpp.obj	923263d1b98b5b40
+549	710	7314619112401903	main.exe	723d2602fca74c4f
+19	391	7314620326442940	CMakeFiles/main.dir/main.cpp.obj	cb7076c8007cbee6
+26	465	7314620327174432	CMakeFiles/main.dir/fraction.cpp.obj	923263d1b98b5b40
+5	361	7314620437890891	CMakeFiles/main.dir/main.cpp.obj	cb7076c8007cbee6
+11	440	7314620438677285	CMakeFiles/main.dir/fraction.cpp.obj	923263d1b98b5b40
+5	357	7314621702731846	CMakeFiles/main.dir/main.cpp.obj	cb7076c8007cbee6
+17	382	7314621867135547	CMakeFiles/main.dir/main.cpp.obj	cb7076c8007cbee6
+19	362	7314622165243519	CMakeFiles/main.dir/main.cpp.obj	cb7076c8007cbee6
+5	420	7314624398532376	CMakeFiles/main.dir/fraction.cpp.obj	923263d1b98b5b40
+21	411	7314637399435809	CMakeFiles/main.dir/main.cpp.obj	cb7076c8007cbee6
+27	495	7314637400293529	CMakeFiles/main.dir/fraction.cpp.obj	923263d1b98b5b40
