@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/iip/29.02/ll/build"
+			"value" : "d:/iip/29.02/homework29/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -439,7 +439,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/iip/29.02/ll/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/iip/29.02/homework29/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/iip/29.02/ll"
+			"value" : "D:/iip/29.02/homework29"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/iip/29.02/ll/build"
+			"value" : "D:/iip/29.02/homework29/build"
 		},
 		{
 			"name" : "CPlusPlusBestC_IS_TOP_LEVEL",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/iip/29.02/ll"
+			"value" : "D:/iip/29.02/homework29"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

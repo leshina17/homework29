@@ -2,9 +2,13 @@
 #include "fraction.h"
 
 int main(){
-    fraction fract1(15,30);
-    fract1.reduce();
-    fract1.print();
-    
+    double f;
+
+    std::cout<<"fraction: "<<std::endl;
+    std::cin>>f;
+    if(f!=0){
+    fraction fract=fraction(f);
+    std::cout<< fract;
+}
     return 0;
 }
